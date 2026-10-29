@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Targon AI 1.0">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:lr="http://ns.adobe.com/lightroom/1.0/"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:targon="http://targon.ai/1.0/">
+   <dc:title>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">05_other_cat_sunny_garden.webp</rdf:li>
+    </rdf:Alt>
+   </dc:title>
+   <dc:description>
+    <rdf:Alt>
+     <rdf:li xml:lang="x-default">unnamed cat #2 (cat) - ginger tabby cat, ginger cat</rdf:li>
+    </rdf:Alt>
+   </dc:description>
+   <dc:subject>
+    <rdf:Bag>
+     <rdf:li>cat</rdf:li>
+     <rdf:li>animal</rdf:li>
+     <rdf:li>pet</rdf:li>
+     <rdf:li>feline</rdf:li>
+     <rdf:li>orange ginger coat</rdf:li>
+     <rdf:li>tabby</rdf:li>
+     <rdf:li>outdoor</rdf:li>
+     <rdf:li>sky</rdf:li>
+     <rdf:li>tiger cat</rdf:li>
+     <rdf:li>tabby cat</rdf:li>
+     <rdf:li>golden hour</rdf:li>
+     <rdf:li>sunset</rdf:li>
+     <rdf:li>warm lighting</rdf:li>
+     <rdf:li>beach</rdf:li>
+     <rdf:li>coast</rdf:li>
+     <rdf:li>ocean</rdf:li>
+     <rdf:li>macro</rdf:li>
+     <rdf:li>close-up</rdf:li>
+     <rdf:li>architecture</rdf:li>
+     <rdf:li>urban</rdf:li>
+     <rdf:li>ginger cat</rdf:li>
+     <rdf:li>ginger tabby cat</rdf:li>
+     <rdf:li>Orange kitty</rdf:li>
+    </rdf:Bag>
+   </dc:subject>
+   <lr:hierarchicalSubject>
+    <rdf:Bag>
+     <rdf:li>Animal|Cat|Unnamed Cat #2</rdf:li>
+     <rdf:li>Animal|Cat</rdf:li>
+     <rdf:li>Drive|C:|sample_drive_photos|Cats_Other</rdf:li>
+     <rdf:li>Device|Fujifilm X100VI|WEBP</rdf:li>
+    </rdf:Bag>
+   </lr:hierarchicalSubject>
+   <targon:identity>Unnamed Cat #2</targon:identity>
+   <targon:category>Cat</targon:category>
+   <targon:superType>Animal</targon:superType>
+   <targon:driveRoot>C:</targon:driveRoot>
+   <targon:folder>sample_drive_photos</targon:folder>
+   <targon:subfolder>Cats_Other</targon:subfolder>
+   <targon:device>Fujifilm X100VI</targon:device>
+   <targon:captureDate>2026-10-19</targon:captureDate>
+   <targon:imageFormat>WEBP</targon:imageFormat>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
